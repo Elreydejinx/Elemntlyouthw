@@ -1,0 +1,30 @@
+h1 {
+    font-style: italic;
+    text-align: center;
+    font-size: 74px;
+    text-shadow: teal;
+    color: teal;
+    background-color: turquoise;
+    border-radius: 50px;
+}
+p {
+    font-size: 22px;
+    text-align: center;
+    background-color: turquoise;
+    border-radius: 50px auto;
+    
+}
+img {
+    position: relative;
+    float:left;
+    padding-right: 15px;
+    padding-bottom: 10px;
+}
+body {
+    background-color: cadetblue;
+}
+
+iframe {
+    margin-left: 150px;
+    border-radius: 45px;
+}
